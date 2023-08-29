@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhyeons)](https://solved.ac/hhyeons/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihyeon&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihyeon&layout=compact">
 
 
 &emsp;
